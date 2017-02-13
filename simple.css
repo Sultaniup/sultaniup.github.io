@@ -1,0 +1,114 @@
+}
+body{
+    margin: 0 auto;
+    background-color: white;
+    font-family:"Times New Roman", Times, serif;
+    font-family: 'Autour One';font-size: 30px;
+    color: #333333; /* dark gray not black, color of base font */
+    max-width: 800px;
+    padding: 30px;
+    font-size: 22px;
+}
+
+img {
+	margin-left: auto;
+  	margin-right: auto;
+	display: block;
+}
+
+
+p   {
+    line-height: 150%;
+    font-weight: 400;
+     color: #333333;
+}
+
+h1, h2, h3, h4, h6 {
+    font-weight: 300;
+	color: #cc0000; 
+    padding: 0;
+}
+
+h1 {
+    margin-bottom: 10px;
+    font-size:200%;
+    font-variant:small-caps;
+}
+
+h2 {
+   	font-size:100%;
+   	margin-bottom: 15px;
+	font-weight: bold;
+	color: blue;
+}
+h6 {
+	background-color: brown;
+	font-size: 250%;
+	color: #000000;
+	font-weight: bold;
+	text-align: center;
+	font-variant:small-caps;
+
+}
+/*
+The following styles pertain to the way that hyperlinks are styled, 
+including differences between active and visited links.
+*/
+a {
+    color: blue;
+    margin: 0;
+    padding: 0;
+    vertical-align: baseline;
+}
+
+a:visited {
+    color: green;
+}
+
+a:hover {
+  color: white;
+	background-color: black;
+}
+
+/* 
+Lists come in several types, ordered (or numbered) and unordered (bullets).  You can 
+use styles to change the appearance of the bullets, the spacing, margins etc. 
+*/
+ul, ol {
+    padding: 0;
+    margin: 0px 0px 0px 50px;
+}
+ul {
+    list-style-type: bullet;
+    list-style-position: inside;
+
+}
+
+li {
+     line-height:150%    
+}
+li ul, li ul {
+    margin-left: 24px;
+}
+
+blockquote {
+    border-left:.5em solid #eee;
+    padding: 0 1em;
+    margin-left:200;
+	margin-right:20;
+
+}
+
+hr {
+/    width: 540px;
+    text-align: left;
+    margin: 0 auto 0 0;
+    color: #999;
+}
+
+footer {
+	clear: both;
+	padding: 10px;
+	background-color: #999999;
+	color: white;
+	text-align: right;
