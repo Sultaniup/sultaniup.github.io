@@ -1,0 +1,43 @@
+img {
+	margin-left: auto;
+  	margin-right: auto;
+	display: block;
+}
+
+
+p   {
+    line-height: 150%;
+    font-weight: 400;
+     color: #333333;
+}
+
+h1 {
+        font-weight: 300;
+	color: blue; 
+}
+
+h2 {
+   	    font-weight: 300;
+	color: blue; 
+}
+h3 {
+	    font-weight: 300;
+	color: blue; 
+}
+
+ul, ol {
+    padding: 0;
+    margin: 0px 0px 0px 50px;
+}
+ul {
+    list-style-type: bullet;
+    list-style-position: inside;
+
+}
+
+li {
+     line-height:150%    
+}
+li ul, li ul {
+    margin-left: 24px;
+}
