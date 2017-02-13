@@ -24,6 +24,10 @@ h3 {
 	    font-weight: 300;
 	color: blue; 
 }
+h4 {
+	    font-weight: 300;
+	color: blue; 
+}
 
 ul, ol {
     padding: 0;
