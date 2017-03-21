@@ -45,6 +45,10 @@ h2 {
    	margin-bottom: 15px;
 	font-weight: bold;
 	color: red;
+	h2 {
+        font-weight: 350;
+	color: red; 
+	text-align: center;
 }
 h6 {
 	background-color: brown;
