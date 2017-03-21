@@ -15,7 +15,9 @@ img {
   	margin-right: auto;
 	display: block;
 }
-
+p {
+    font-size: 100%;
+}
 
 p   {
     line-height: 150%;
