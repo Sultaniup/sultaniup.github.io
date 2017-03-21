@@ -7,7 +7,7 @@ body{
     color: #333333; /* dark gray not black, color of base font */
     max-width: 800px;
     padding: 30px;
-    font-size: 22px;
+    font-size: 30px;
 }
 
 img {
@@ -39,7 +39,7 @@ h2 {
    	font-size:125%;
    	margin-bottom: 15px;
 	font-weight: bold;
-	color: blue;
+	color: red;
 }
 h6 {
 	background-color: brown;
